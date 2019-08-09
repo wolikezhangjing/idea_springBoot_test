@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--xml方式配置策略模式-->
+    <!--<bean id="strategyUtil" class="com.xss.design_patterns_demo.ce_lue_mo_shi.common.StrategyUtil">
+        <property name="strategyMap">
+            <map>
+                <entry key="1" value-ref="aOperationActionFristImpl"/>
+                <entry key="2" value-ref="bOperationActionSecondImpl"/>
+                <entry key="3" value-ref="cperationActionThirdImpl"/>
+            </map>
+        </property>
+    </bean>-->
+
+
+    <!--<bean id="aOperationActionFristImpl" class="com.xss.design_patterns_demo.ce_lue_mo_shi.service.OperationActionFristImpl"></bean>
+    <bean id="bOperationActionSecondImpl" class="com.xss.design_patterns_demo.ce_lue_mo_shi.service.OperationActionSecondImpl"></bean>
+    <bean id="cperationActionThirdImpl" class="com.xss.design_patterns_demo.ce_lue_mo_shi.service.OperationActionThirdImpl"></bean>-->
+</beans>

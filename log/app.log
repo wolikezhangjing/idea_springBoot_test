@@ -1,0 +1,51 @@
+2018.11.09 at 17:48:22 CST INFO  org.springframework.boot.StartupInfoLogger logStarting() @50 - Starting SpringbootTemplateDemoApplication on tc-20014 with PID 15260 (E:\idea_springBoot_test\springboot_template_demo\target\classes started by TC20014 in E:\idea_springBoot_test)
+2018.11.09 at 17:48:22 CST INFO  org.springframework.boot.SpringApplication logStartupProfileInfo() @675 - No active profile set, falling back to default profiles: default
+2018.11.09 at 17:48:23 CST INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer initialize() @90 - Tomcat initialized with port(s): 8088 (http)
+2018.11.09 at 17:48:23 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Initializing ProtocolHandler ["http-nio-8088"]
+2018.11.09 at 17:48:23 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Starting service [Tomcat]
+2018.11.09 at 17:48:23 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Starting Servlet Engine: Apache Tomcat/9.0.12
+2018.11.09 at 17:48:23 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\java\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\java\bin;D:\java\jre\bin;D:\soft\Git\cmd;D:\soft\apache-maven-3.5.4\bin;%CATALINA_HOME%\bin;D:\Program Files\nodejs\;D:\Program Files\TortoiseGit\bin;D:\soft\gradle-4.10.2\bin;C:\Users\tc20014\AppData\Roaming\npm;.]
+2018.11.09 at 17:48:23 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Initializing Spring embedded WebApplicationContext
+2018.11.09 at 17:48:23 CST INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext prepareWebApplicationContext() @285 - Root WebApplicationContext: initialization completed in 966 ms
+2018.11.09 at 17:48:23 CST INFO  org.springframework.boot.web.servlet.ServletRegistrationBean addRegistration() @186 - Servlet dispatcherServlet mapped to [/]
+2018.11.09 at 17:48:23 CST INFO  org.springframework.boot.web.servlet.AbstractFilterRegistrationBean configure() @248 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018.11.09 at 17:48:23 CST INFO  com.example.springboot_template_demo.interceptor.WebConfig addInterceptors() @26 - 日志记录：初始化了WebConfig类的addInterceptors方法
+2018.11.09 at 17:48:23 CST INFO  com.example.springboot_template_demo.interceptor.WebConfig addResourceHandlers() @34 - 日志记录：初始化了WebConfig类的addResourceHandlers方法
+2018.11.09 at 17:48:24 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Starting ProtocolHandler ["http-nio-8088"]
+2018.11.09 at 17:48:24 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Using a shared selector for servlet write/read
+2018.11.09 at 17:48:24 CST INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer start() @204 - Tomcat started on port(s): 8088 (http) with context path ''
+2018.11.09 at 17:48:24 CST INFO  org.springframework.boot.StartupInfoLogger logStarted() @59 - Started SpringbootTemplateDemoApplication in 2.273 seconds (JVM running for 3.457)
+2018.12.20 at 17:47:52 CST INFO  org.springframework.boot.StartupInfoLogger logStarting() @50 - Starting SpringbootTemplateDemoApplication on tc-20014 with PID 5508 (E:\idea_springBoot_test\springboot_template_demo\target\classes started by TC20014 in E:\idea_springBoot_test)
+2018.12.20 at 17:47:52 CST INFO  org.springframework.boot.SpringApplication logStartupProfileInfo() @675 - No active profile set, falling back to default profiles: default
+2018.12.20 at 17:47:54 CST INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer initialize() @90 - Tomcat initialized with port(s): 8088 (http)
+2018.12.20 at 17:47:54 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Initializing ProtocolHandler ["http-nio-8088"]
+2018.12.20 at 17:47:54 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Starting service [Tomcat]
+2018.12.20 at 17:47:54 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Starting Servlet Engine: Apache Tomcat/9.0.12
+2018.12.20 at 17:47:54 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\java\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\java\bin;D:\java\jre\bin;D:\soft\Git\cmd;D:\soft\apache-maven-3.5.4\bin;%CATALINA_HOME%\bin;D:\Program Files\nodejs\;D:\Program Files\TortoiseGit\bin;D:\soft\gradle-4.10.2\bin;C:\Users\tc20014\AppData\Roaming\npm;.]
+2018.12.20 at 17:47:54 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Initializing Spring embedded WebApplicationContext
+2018.12.20 at 17:47:54 CST INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext prepareWebApplicationContext() @285 - Root WebApplicationContext: initialization completed in 2263 ms
+2018.12.20 at 17:47:54 CST INFO  org.springframework.boot.web.servlet.ServletRegistrationBean addRegistration() @186 - Servlet dispatcherServlet mapped to [/]
+2018.12.20 at 17:47:54 CST INFO  org.springframework.boot.web.servlet.AbstractFilterRegistrationBean configure() @248 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018.12.20 at 17:47:54 CST INFO  com.example.springboot_template_demo.interceptor.WebConfig addInterceptors() @28 - 日志记录：初始化了WebConfig类的addInterceptors方法
+2018.12.20 at 17:47:55 CST INFO  com.example.springboot_template_demo.interceptor.WebConfig addResourceHandlers() @36 - 日志记录：初始化了WebConfig类的addResourceHandlers方法
+2018.12.20 at 17:47:55 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Starting ProtocolHandler ["http-nio-8088"]
+2018.12.20 at 17:47:55 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Using a shared selector for servlet write/read
+2018.12.20 at 17:47:55 CST INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer start() @204 - Tomcat started on port(s): 8088 (http) with context path ''
+2018.12.20 at 17:47:55 CST INFO  org.springframework.boot.StartupInfoLogger logStarted() @59 - Started SpringbootTemplateDemoApplication in 5.055 seconds (JVM running for 12.249)
+2018.12.20 at 17:48:47 CST INFO  org.springframework.boot.StartupInfoLogger logStarting() @50 - Starting SpringbootTemplateDemoApplication on tc-20014 with PID 8172 (E:\idea_springBoot_test\springboot_template_demo\target\classes started by TC20014 in E:\idea_springBoot_test)
+2018.12.20 at 17:48:47 CST INFO  org.springframework.boot.SpringApplication logStartupProfileInfo() @675 - No active profile set, falling back to default profiles: default
+2018.12.20 at 17:48:48 CST INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer initialize() @90 - Tomcat initialized with port(s): 8088 (http)
+2018.12.20 at 17:48:48 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Initializing ProtocolHandler ["http-nio-8088"]
+2018.12.20 at 17:48:48 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Starting service [Tomcat]
+2018.12.20 at 17:48:48 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Starting Servlet Engine: Apache Tomcat/9.0.12
+2018.12.20 at 17:48:48 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\java\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\java\bin;D:\java\jre\bin;D:\soft\Git\cmd;D:\soft\apache-maven-3.5.4\bin;%CATALINA_HOME%\bin;D:\Program Files\nodejs\;D:\Program Files\TortoiseGit\bin;D:\soft\gradle-4.10.2\bin;C:\Users\tc20014\AppData\Roaming\npm;.]
+2018.12.20 at 17:48:49 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Initializing Spring embedded WebApplicationContext
+2018.12.20 at 17:48:49 CST INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext prepareWebApplicationContext() @285 - Root WebApplicationContext: initialization completed in 1129 ms
+2018.12.20 at 17:48:49 CST INFO  org.springframework.boot.web.servlet.ServletRegistrationBean addRegistration() @186 - Servlet dispatcherServlet mapped to [/]
+2018.12.20 at 17:48:49 CST INFO  org.springframework.boot.web.servlet.AbstractFilterRegistrationBean configure() @248 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018.12.20 at 17:48:49 CST INFO  com.example.springboot_template_demo.interceptor.WebConfig addInterceptors() @28 - 日志记录：初始化了WebConfig类的addInterceptors方法
+2018.12.20 at 17:48:49 CST INFO  com.example.springboot_template_demo.interceptor.WebConfig addResourceHandlers() @36 - 日志记录：初始化了WebConfig类的addResourceHandlers方法
+2018.12.20 at 17:48:49 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Starting ProtocolHandler ["http-nio-8088"]
+2018.12.20 at 17:48:49 CST INFO  org.apache.juli.logging.DirectJDKLog log() @173 - Using a shared selector for servlet write/read
+2018.12.20 at 17:48:49 CST INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer start() @204 - Tomcat started on port(s): 8088 (http) with context path ''
+2018.12.20 at 17:48:49 CST INFO  org.springframework.boot.StartupInfoLogger logStarted() @59 - Started SpringbootTemplateDemoApplication in 2.308 seconds (JVM running for 3.407)

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>springboot使用模板构建web项目的第一个demo</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</head>
+<body>
+<img src="../img/huaimi.jpg">
+<div id="firstApp">
+    {{msgData}}
+</div>
+<!--<div>{{host}}</div>-->
+<script type="application/javascript">
+    var firstApp = new Vue({
+        el: '#firstApp',
+        data: {
+            msgData: 'Hello Vue, Frist Demo!'
+        }
+    })
+</script>
+</body>
+</html>
